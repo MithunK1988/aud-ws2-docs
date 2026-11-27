@@ -27,6 +27,11 @@
             { "langs": ["en"], "path": "mu-folder-cat/mu-art-1.md" }
           ]
         }
+        ,{
+          "paths": [
+            { "langs": ["en"], "path": "mu-folder-cat/mu-art-git.md" }
+          ]
+        }
       ]
     },
     {
