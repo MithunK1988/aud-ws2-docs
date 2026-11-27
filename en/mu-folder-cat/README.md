@@ -9,3 +9,5 @@ display:
 feedback:
   comments: true
 ---
+
+Page category body added by Mohan after the type switch.

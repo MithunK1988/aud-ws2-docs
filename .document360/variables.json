@@ -3,12 +3,7 @@
     {
       "name": "muvar1",
       "global": true,
-      "value": "Mohan variable value"
-    },
-    {
-      "name": "muvar2",
-      "global": true,
-      "value": "Variable to delete"
+      "value": "Mohan variable value updated"
     }
   ]
 }
