@@ -11,4 +11,4 @@ feedback:
 
 Article de test d'audit dans l'espace de travail non par defaut (francais).
 
-Second line added in Git (fr only).
+Second line added in Git (fr only). Ligne ajoutee dans Document360.
