@@ -1,0 +1,21 @@
+{
+  "serializerVersion": 1,
+  "languages": [
+    { "code": "en", "default": true },
+    { "code": "fr" }
+  ],
+  "nodes": [
+    {
+      "paths": [
+        { "langs": ["en", "fr"], "path": "aud-ws2-cat/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en", "fr"], "path": "aud-ws2-cat/aud-ws2-art-1.md" }
+          ]
+        }
+      ]
+    }
+  ]
+}
