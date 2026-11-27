@@ -14,6 +14,11 @@
           "paths": [
             { "langs": ["en", "fr"], "path": "aud-ws2-cat/aud-ws2-art-1.md" }
           ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "aud-ws2-cat/aud-ws2-art-368658.md" }
+          ]
         }
       ]
     }
