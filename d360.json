@@ -21,6 +21,28 @@
           ]
         }
       ]
+    },
+    {
+      "paths": [
+        { "langs": ["en", "fr"], "path": "mu-folder-cat/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "mu-folder-cat/mu-art-1.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en", "fr"], "path": "mu-index-cat/README.md" }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en", "fr"], "path": "mu-page-cat/README.md" }
+      ]
     }
   ]
 }
